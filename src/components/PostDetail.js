@@ -1,6 +1,6 @@
 import React from "react";
 
-function PostDetail(props) {
+function PostDetail() {
   return <div>PostDetail</div>;
 }
 
